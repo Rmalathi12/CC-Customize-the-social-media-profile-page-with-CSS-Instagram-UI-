@@ -112,6 +112,9 @@ section {
   .prof-img {
     width: 140px;
   }
+  .font-size{
+    font-size: 11px;
+  }
   .profile-div {
     display: flex;
     column-gap: 0.4rem;
