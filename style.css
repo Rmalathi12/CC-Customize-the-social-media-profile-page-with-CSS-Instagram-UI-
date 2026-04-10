@@ -110,11 +110,11 @@ section {
     width: 100%;
   }
   .prof-img {
-    width: 150px;
+    width: 140px;
   }
   .profile-div {
     display: flex;
-    column-gap: 0.8rem;
+    column-gap: 0.4rem;
     align-items: center;
     margin-bottom: 1.5rem;
   }
